@@ -1,0 +1,188 @@
+文件中长度为8的单词数：0个
+文件中单词出现频率最高的前十个单词：
+201731062321: 1
+Administrator: 1
+Desktop: 1
+test1: 1
+Users: 1
+WordCount: 1
+文件中长度为8的单词数：0个
+文件中单词出现频率最高的前十个单词：
+201731062321: 1
+Administrator: 1
+Desktop: 1
+test1: 1
+Users: 1
+WordCount: 1
+汉字个数=0
+字符个数(包括空格、标点、换行符)=740
+数字个数=2
+行数=2
+文件中长度为8的单词数：0个
+文件中单词出现频率最高的前十个单词：
+201731062321: 1
+Administrator: 1
+Desktop: 1
+test1: 1
+Users: 1
+WordCount: 1
+文件中长度为8的单词数：2个
+文件中单词出现频率最高的前十个单词：
+jaguar: 4
+cattle: 2
+sheep: 2
+that: 2
+there: 2
+accompany: 1
+animal: 1
+Anyone: 1
+collected: 1
+could: 1
+文件中长度为8的单词数：2个
+文件中单词出现频率最高的前十个单词：
+jaguar: 4
+cattle: 2
+sheep: 2
+that: 2
+there: 2
+accompany: 1
+animal: 1
+Anyone: 1
+collected: 1
+could: 1
+汉字个数=0
+字符个数(包括空格、标点、换行符)=740
+数字个数=2
+行数=2
+文件中长度为8的单词数：2个
+文件中单词出现频率最高的前十个单词：
+jaguar: 4
+cattle: 2
+sheep: 2
+that: 2
+there: 2
+accompany: 1
+animal: 1
+Anyone: 1
+collected: 1
+could: 1
+汉字个数=0
+字符个数(包括空格、标点、换行符)=740
+数字个数=2
+行数=2
+文件中长度为8的单词数：2个
+文件中单词出现频率最高的前十个单词：
+jaguar: 4
+cattle: 2
+sheep: 2
+that: 2
+there: 2
+accompany: 1
+animal: 1
+Anyone: 1
+collected: 1
+could: 1
+汉字个数=0
+字符个数(包括空格、标点、换行符)=742
+数字个数=2
+行数=3
+文件中长度为8的单词数：2个
+文件中单词出现频率最高的前十个单词：
+jaguar: 4
+cattle: 2
+sheep: 2
+that: 2
+there: 2
+accompany: 1
+animal: 1
+Anyone: 1
+collected: 1
+could: 1
+汉字个数=0
+字符个数(包括空格、标点、换行符)=754
+数字个数=2
+行数=9
+文件中长度为8的单词数：2个
+文件中单词出现频率最高的前十个单词：
+jaguar: 4
+cattle: 2
+sheep: 2
+that: 2
+there: 2
+accompany: 1
+animal: 1
+Anyone: 1
+collected: 1
+could: 1
+汉字个数=0
+字符个数(包括空格、标点、换行符)=754
+数字个数=2
+行数=9
+文件中长度为-1的单词数：0个
+文件中单词出现频率最高的前十个单词：
+jaguar: 4
+cattle: 2
+sheep: 2
+that: 2
+there: 2
+accompany: 1
+animal: 1
+Anyone: 1
+collected: 1
+could: 1
+文件中长度为5的单词数：17个
+文件中单词出现频率最高的前十个单词：
+jaguar: 4
+cattle: 2
+sheep: 2
+that: 2
+there: 2
+accompany: 1
+animal: 1
+Anyone: 1
+collected: 1
+could: 1
+文件中长度为8的单词数：2个
+文件中单词出现频率最高的前十个单词：
+jaguar: 4
+cattle: 2
+sheep: 2
+that: 2
+there: 2
+accompany: 1
+animal: 1
+Anyone: 1
+collected: 1
+could: 1
+汉字个数=0
+字符个数(包括空格、标点、换行符)=754
+数字个数=2
+行数=9
+文件中长度为5的单词数：17个
+文件中单词出现频率最高的前十个单词：
+jaguar: 4
+cattle: 2
+sheep: 2
+that: 2
+there: 2
+accompany: 1
+animal: 1
+Anyone: 1
+collected: 1
+could: 1
+文件中长度为8的单词数：2个
+文件中单词出现频率最高的前十个单词：
+jaguar: 4
+cattle: 2
+sheep: 2
+that: 2
+there: 2
+accompany: 1
+animal: 1
+Anyone: 1
+collected: 1
+could: 1
+汉字个数=0
+字符个数(包括空格、标点、换行符)=754
+数字个数=2
+行数=9
