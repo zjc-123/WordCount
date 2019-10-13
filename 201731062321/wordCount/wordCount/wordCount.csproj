@@ -43,8 +43,11 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="ReadChar.cs" />
     <Compile Include="ReadWord.cs" />
+=======
+>>>>>>> a05ab4c54d485fbf0f194380f142f6a320b088fc
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
